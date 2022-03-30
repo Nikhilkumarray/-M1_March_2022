@@ -1,4 +1,4 @@
-# certificates
+# Certificates
  * Sololearn
  * CISCO NDG certificate
  * Git certificate
