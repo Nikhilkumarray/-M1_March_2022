@@ -6,9 +6,9 @@
 
 ### Code grade
 
-https://app.codacy.com/gh/Nikhilkumarray/M1_DesktopProject_ATMmachine/file/69001728034/issues/source?bid=28460373&fileBranchId=28460373
-## Codacy BADGE
 
+## Codacy BADGE
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/590f461975fe49f7b97ae0683cb2dce9)](https://www.codacy.com/gh/Nikhilkumarray/M1_DesktopProject_ATMmachine/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Nikhilkumarray/M1_DesktopProject_ATMmachine&amp;utm_campaign=Badge_Grade)
 
 # ATM MACHINE
 A ATM in C is built on the idea of directly managing an account. The user can simply check total balance, deposit amount, and withdraw amount from this ATM System C Project since it is not time-consumingTo build a system that can receive input and generate automatically output in easy way and short time.
