@@ -5,7 +5,7 @@
 /*
 
 ### Codiga badge
-https://api.codiga.io/project/32487/status/svg
+[![Codiga Badge](https://api.codiga.io/project/32498/status/svg)]
 
 
 ## Codacy BADGE
