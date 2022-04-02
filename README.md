@@ -20,10 +20,11 @@ FOLDER | DESCRIPTION
  --- | ---
  0_Certificates| All the certificates are here
  1_Requirements|	Documents detailing requirements
-2_Architecture	|Structural and Behavioural UML
+2_Design	|Structural and Behavioural UML
 3_Implementation|	All the code is written here
 4_TestPlanAndOutput|	Documents with test plans and outputs
-5_ImagesandVideos|	All the images and program execution video
+5_Repot| updated readme of components
+6_Video|	All the images and program execution video
 
 ## Challenges Faced
 - in making makefile
