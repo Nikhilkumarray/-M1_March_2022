@@ -3,7 +3,7 @@
   ### INTRODUCTION:
 
 A ATM in C is built on the idea of directly managing an account. The user can simply check total balance, deposit amount, and withdraw amount from this ATM System C Project since it is not time-consuming.
-  ### OBJECTIVES:
+   ### OBJECTIVES :
   - To build a system that can receive input and generate automatically output in easy way and short time.
   - A user can check amount.
   - user can withdraw money and acn deposit money aswell.
