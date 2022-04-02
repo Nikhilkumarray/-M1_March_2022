@@ -4,7 +4,8 @@
 */
 /*
 
-### Code grade
+### Codiga badge
+https://api.codiga.io/project/32487/status/svg
 
 
 ## Codacy BADGE
