@@ -24,7 +24,7 @@ FOLDER | DESCRIPTION
 3_Implementation|	All the code is written here
 4_TestPlanAndOutput|	Documents with test plans and outputs
 5_Repot| updated readme of components
-5_Video|	All the images and program execution video
+6_Video|	All the images and program execution video
 
 ## Challenges Faced
 - in making makefile
